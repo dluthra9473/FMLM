@@ -1,5 +1,9 @@
 .carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#456ec0}@media only screen and (max-width:768px){.navbar{background-color:#456ec0} .navbar:not(.top-nav-collapse){ background-color:#456ec0 !important}}
 .navybg{ background-color: #456ec0 !important;}
+body {
+  background-color: #eee;
+}
+.mt100{ margin-top: 100px; }
 .navytext{color: #456ec0 !important;}
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: .8rem !important;
